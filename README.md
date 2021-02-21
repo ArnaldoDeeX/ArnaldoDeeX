@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DeeX</h1>
-<h3 align="center">I'm a PHP Back End Developer</h3>
+<h3 align="center">I'm a Web Developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://dxdev.xyz](https://dxdev.xyz)
 
