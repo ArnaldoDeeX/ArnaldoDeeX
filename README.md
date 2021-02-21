@@ -1,16 +1,11 @@
 ### Hi there 👋
 
-<!--
-**ArnaldoDeeX/ArnaldoDeeX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...x
-- 🌱 I’m currently learning ...x
-- 👯 I’m looking to collaborate on ...x
+- 🔭 I’m currently working on ...xw
+- 🌱 I’m currently learning ...xw
+- 👯 I’m looking to collaborate on ...xw
 - 🤔 I’m looking for help with ...x
-- 💬 Ask me about ...x
-- 📫 How to reach me: ...x
-- 😄 Pronouns: ...x
+- 💬 Ask me about ...xw
+- 📫 How to reach me: ...xw
+- 😄 Pronouns: ...xw
 - ⚡ Fun fact: ...x
--->
