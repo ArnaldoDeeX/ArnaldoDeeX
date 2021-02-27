@@ -88,7 +88,7 @@
   🚀 Game Website: https://youtu.be/agElk-Tcd0I<br/>
   🚀 Micro-SaaS: https://youtu.be/0jshHkxP6Vc<br/>
   <br>
-  <b>Jobs:</b><br/>
+  <b>Works:</b><br/>
   🚀 https://www.oreitroll.net<br/>
   🚀 https://www.jhonstop.com.br<br/>
   🚀 https://www.livedodemon.com.br<br/>
