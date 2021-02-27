@@ -86,7 +86,13 @@
 ## Portfólio 
 <div align="center">
   🚀 Game Website: https://youtu.be/agElk-Tcd0I<br/>
-  🚀 Micro-SaaS: https://youtu.be/0jshHkxP6Vc
+  🚀 Micro-SaaS: https://youtu.be/0jshHkxP6Vc<br>
+  <br>
+  <b>Jobs:</b><br>
+  🚀 https://www.oreitroll.net
+  🚀 https://www.jhonstop.com.br
+  🚀 https://www.livedodemon.com.br
+  🚀 https://www.borbaking.com.br
 </div> 
 
 
