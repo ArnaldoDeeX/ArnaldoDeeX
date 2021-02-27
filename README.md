@@ -78,15 +78,11 @@
 
 ## Portfólio 
 <div align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/agElk-Tcd0I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  🚀 Game Website: https://youtu.be/agElk-Tcd0I
+  🚀 Micro-SaaS: https://youtu.be/0jshHkxP6Vc
 </div> 
 
 <br/>
-
-## Recent Blog Posts  
-  
-
-<br/>  
 
   
 
