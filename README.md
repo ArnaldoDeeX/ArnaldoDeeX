@@ -1,6 +1,6 @@
-<div align="center">
+<!--<div align="center">
 <img src="https://i.pinimg.com/originals/52/9d/97/529d97caf9fe7163a654391a51e684ff.gif" align="center" style="width: 100%" />
-</div>  
+</div>-->  
   
 
 ### <div align="center">I'm DeeX, Full Stack PHP Developer 🚀</div>  
