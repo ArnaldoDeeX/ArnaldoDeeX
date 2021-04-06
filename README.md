@@ -3,7 +3,7 @@
 </div>-->  
   
 
-### <div align="center">I'm DeeX, Full Stack PHP Developer 🚀</div>  
+### <div align="center">I'm DeeX, PHP Developer 🚀</div>  
   
 
 - 🔭 I am currently a Freelancer  
