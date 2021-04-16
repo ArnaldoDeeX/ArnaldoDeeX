@@ -87,8 +87,7 @@
   <b>Works:</b><br/>
   🚀 https://www.oreitroll.net<br/>
   🚀 https://www.jhonstop.com.br<br/>
-  🚀 https://www.livedodemon.com.br<br/>
-  🚀 https://www.borbaking.com.br
+  🚀 https://www.livedodemon.com.br
 </div> 
 
 
