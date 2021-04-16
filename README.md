@@ -83,6 +83,7 @@
 <div align="center">
   🚀 Game Website: https://youtu.be/agElk-Tcd0I<br/>
   🚀 Micro-SaaS: https://youtu.be/X2wdunaCCuI<br/>
+  🚀 Financial panel: https://github.com/ArnaldoDeeX/dxfinancial
   <br>
   <b>Works:</b><br/>
   🚀 https://www.oreitroll.net<br/>
