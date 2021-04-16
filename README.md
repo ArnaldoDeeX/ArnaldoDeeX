@@ -6,9 +6,6 @@
 ### <div align="center">I'm DeeX, a PHP freelance Developer 👨‍💻 working remotely since 2019</div>  
   
 
-- 🔭 I am currently a Freelancer  
-  
-
 - ❓ Ask me about anything related to PHP stack and related technologies  
   
 
